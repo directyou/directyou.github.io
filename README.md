@@ -1,11 +1,6 @@
-# Portfolio one page template - ARCHIVED
+# Direct You LLC company website
 
-Flat and responsive website template, designed and coded by [Maxim Orlov](https://github.com/orlovmax).
-
-Demo: [http://website-templates.github.io/portfolio_one-page-template](http://website-templates.github.io/portfolio_one-page-template/)
-
-![Mockup demo](screenshots/pic.jpg)
-Product mockup created with [http://magicmockups.com/](http://magicmockups.com/)
+Webiste: https://directyou.github.io/
 
 ## Contents
 
